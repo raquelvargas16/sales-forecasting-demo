@@ -1,7 +1,7 @@
 # sales-forecasting-demo
 Este repo contiene los archivos iniciales necesarios para seguir la demostración en vivo del uso de GitHub Copilot con Visual Studio Code.
 
-**Necesario**: `python >=3.13`
+**Necesario**: `python >=3.13`, `java openjdk version >="27"` 
 
 ## ¿Cómo utilizar este repositorio?
 1. Clona el repositorio a tu computador personal
